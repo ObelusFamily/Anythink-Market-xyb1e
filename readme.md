@@ -10,8 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-1.) Clone the repository
-2.) Make sure Docker is running.
-3.) Run docker-compose up from the project root directory.
-4.) Navigate to http://localhost:3000/api/ping in your browser to test the backend.
-5.) Navigate to http://localhost:3001/register in your browser to register a new account.
+1. Clone the repository
+2. Make sure Docker is running.
+3. Run docker-compose up from the project root directory.
+4. Navigate to http://localhost:3000/api/ping in your browser to test the backend.
+5. Navigate to http://localhost:3001/register in your browser to register a new account.
